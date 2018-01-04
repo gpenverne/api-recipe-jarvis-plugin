@@ -1,1 +1,1 @@
-(*)==jv_curl "http://$jv_pg_ar_host/voice/deduce?text=$order"
+(*)==curl "http://$jv_pg_ar_host/voice/deduce" -d "text=$order"
