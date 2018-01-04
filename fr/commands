@@ -1,0 +1,1 @@
+(*)==$(curl -s "http://$jv_pg_ar_host/voice/deduce?text=$order)
