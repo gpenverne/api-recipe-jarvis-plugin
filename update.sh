@@ -3,4 +3,4 @@
 # Use only if you need to perform updates on the user systems to support evolution of your plugin
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-wget "http://$API_RECIPE_HOST/jarvis" > /$DIR/fr/commands
+wget "http://$jv_pg_ar_host/jarvis" > /$DIR/fr/commands

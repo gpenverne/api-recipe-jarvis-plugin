@@ -1,2 +1,2 @@
 # Add here your api recipe ip
-API_RECIPE_HOST="192.168.0.20"
+jv_pg_ar_host="192.168.0.20"
