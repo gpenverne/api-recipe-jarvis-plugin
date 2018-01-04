@@ -10,13 +10,10 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Run api-recipes voices commands using Jarvis
 
 ## Usage
-```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
-```
+Generate the commands file using install.sh or update.sh.
 
 ## Author
-[your name](http://your.website)
+[Gpenverne](http://github.com/gpenverne)
